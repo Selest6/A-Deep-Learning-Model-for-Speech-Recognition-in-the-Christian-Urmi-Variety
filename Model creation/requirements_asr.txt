@@ -1,0 +1,13 @@
+# Дообучение MMS ASR (Python 3.10+ рекомендуется)
+torch>=2.1.0
+transformers>=4.38.0
+datasets>=2.16.0
+accelerate>=0.26.0
+librosa>=0.10.0
+soundfile>=0.12.0
+jiwer>=3.0.0
+wandb>=0.16.0
+pyctcdecode>=0.5.0
+matplotlib>=3.7.0
+pandas>=2.0.0
+openpyxl>=3.1.0
